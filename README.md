@@ -39,6 +39,12 @@ Upper Case: English Alphabet
 Lower Case: English Alphabet
 Special Characters: "!@#$%^&*()"
 
+## Deployed at:
+https://miahhub.github.io/PasswordCF2022/
+
+## GitHub repo:
+https://github.com/MiahHub/PasswordCF2022
+
 
 
 # PasswordCF2022
