@@ -13,7 +13,7 @@ var optionsVariable = "";
 // Add event listener to generate button
 generateBtn.addEventListener("click", writePassword);
 
-// Write function to generate password 
+// Write function to generate a password 
 
 function writePassword() {
 
